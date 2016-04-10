@@ -1,0 +1,7 @@
+{
+  "plants": [
+      { "name": "tomatoes" },
+      { "name": "apples" },
+      { "name": "cucumbers" }
+  ]
+}
